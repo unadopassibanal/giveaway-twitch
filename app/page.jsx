@@ -101,8 +101,7 @@ export default function Home() {
         <ul className="list-disc list-inside space-y-2 text-lg">
           <li>Suivre la chaîne Twitch <strong>UnAdoPassiBanal</strong></li>
           <li>Participer activement dans le chat pendant le live</li>
-          <li>Avoir au moins 18 ans</li>
-          <li>Résider en France (ou pays/région spécifique)</li>
+          <li>Résider en France ou en Suisse</li>
           <li>Une seule participation par personne (pas de multi-comptes)</li>
           <li>Respecter les règles de Twitch et de la chaîne (pas de spam, pas d’insultes)</li>
           <li>Le gagnant sera tiré au sort en direct</li>
